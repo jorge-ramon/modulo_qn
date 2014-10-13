@@ -1,0 +1,23 @@
+{
+  "name": "modulo_qn",
+  "version": "0.1.1",
+  "description": "Una prueba para crear modulos para Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorge-ramon/modulo_qn.git"
+  },
+  "keywords": [
+    "modulo",
+    "qn"
+  ],
+  "author": "Jorge Ramon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorge-ramon/modulo_qn/issues"
+  },
+  "homepage": "https://github.com/jorge-ramon/modulo_qn"
+}
